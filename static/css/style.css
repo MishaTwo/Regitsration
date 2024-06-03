@@ -1,0 +1,22 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFOA-31939Ejz4hwh3KxQ74VxsJb2EIF2rBaHhjeOgE3xEZMRy_napgwkMyS7FjjEpxA0&usqp=CAU");
+    background-position: center;
+    background-size: contain;
+    padding: 30px;
+    border-color: black;
+}
+
+.box {
+    flex: 1;
+    background-color: white;
+    border: black;
+    padding: 10px 10px;
+}
